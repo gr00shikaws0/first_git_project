@@ -6,8 +6,9 @@ public class Main {
         System.out.println("Hello World!!!");
 
         for (int i = 0; i < 5; i++) {
-            System.out.println("urrent count = " + i);
+            System.out.println("current count = " + i);
         }
 
+        System.out.println("Exit");
     }
 }
